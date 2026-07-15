@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "holding-architect-marketplace",
+  "description": "Marketplace oficial do plugin Holding Architect — arquiteto de holding patrimonial e sucessoria pelo metodo das 4 celulas.",
+  "owner": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  },
+  "plugins": [
+    {
+      "name": "holding-architect",
+      "source": "./holding-architect",
+      "description": "Arquiteto de holding patrimonial e sucessoria pelo metodo das 4 celulas (Cofre, Administradora de Bens, Holding de Participacoes, Gestora). Societario, integralizacao (ITBI Tema 796), tributario 2026 (Lei 15.270), doacao com usufruto e ITCMD, sucessorio, apuracao de haveres, JUCESP e offshore ponta-BR. Vende a verdade vigente: holding nao e blindagem.",
+      "author": {
+        "name": "Sbroggio Advocacia & IA Combativa"
+      }
+    }
+  ]
+}

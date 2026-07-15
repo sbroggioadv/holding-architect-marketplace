@@ -1,0 +1,8 @@
+{
+  "name": "holding-architect",
+  "version": "0.1.0",
+  "description": "Arquiteto de holding patrimonial e sucessoria pelo metodo das 4 celulas (Cofre, Administradora de Bens, Holding de Participacoes, Gestora). Cobre estrutura societaria, integralizacao de imoveis (ITBI Tema 796), planejamento tributario 2026 (Lei 15.270 dividendos, lucro presumido), doacao com usufruto e ITCMD, planejamento sucessorio, apuracao de haveres, registro na JUCESP e offshore pela ponta brasileira. Vende a verdade vigente: holding nao e blindagem, dividendos altos sao tributados, offshore patrimonial cai no gatilho de 15%.",
+  "author": {
+    "name": "Sbroggio Advocacia & IA Combativa"
+  }
+}
