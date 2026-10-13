@@ -1,12 +1,14 @@
 {
-  "SessionStart": [
-    {
-      "hooks": [
-        {
-          "type": "command",
-          "command": "echo 'holding-architect carregado — rode /start-holding para configurar o escritorio ou /holding-master para comecar a estruturar.'"
-        }
-      ]
-    }
-  ]
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'holding-architect carregado — rode /start-holding para configurar o escritorio ou /holding-master para comecar a estruturar.'"
+          }
+        ]
+      }
+    ]
+  }
 }
