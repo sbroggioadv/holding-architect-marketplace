@@ -5,7 +5,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "echo 'holding-architect carregado — rode /start-holding para configurar o escritorio ou /holding-master para comecar a estruturar.'"
+            "command": "echo '{\"hookSpecificOutput\": {\"hookEventName\": \"SessionStart\", \"additionalContext\": \"holding-architect carregado \\u2014 rode /start-holding para configurar o escritorio ou /holding-master para comecar a estruturar.\"}}'"
           }
         ]
       }
